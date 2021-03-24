@@ -47,7 +47,7 @@ LTTS Intern
 
 [Hackerrank Caertificate](https://www.hackerrank.com/certificates/498cc6487df6)
 
-![hackerRankC#](https://user-images.githubusercontent.com/78849691/111939787-2eb17580-8af3-11eb-9dcf-41404ed81c49.png)
+![hackerRankC#](https://github.com/99003559/Profile_Onkar_N_K/blob/main/Profile-main/HackerankCertificate.png)
 
 ## Repositories Link
 
