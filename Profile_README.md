@@ -36,7 +36,7 @@ LTTS Intern
 # Badges
 
 ## Hackerrank Badges
-![Capture](https://user-images.githubusercontent.com/78849691/111938939-0f194d80-8af1-11eb-98aa-1c6867392135.JPG)
+![Capture](https://github.com/99003559/Profile_Onkar_N_K/blob/main/Profile-main/Badges.PNG)
 
 ## Microsoft Badges 
 [Achievements](https://docs.microsoft.com/en-us/users/onkarnkurandkar-2369/achievements)
